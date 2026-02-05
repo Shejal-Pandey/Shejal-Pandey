@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🔭 I’m currently working on Java projects<br><br>🤝 I’m looking to collaborate on Java development<br><br>🆘 I’m looking for help with real-world projects<br><br>🌱 I’m currently learning Full-Stack Java<br><br>💬 Ask me about OOP concepts<br><br>⚡ Fun fact Quick learner
 
